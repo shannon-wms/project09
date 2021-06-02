@@ -1,30 +1,26 @@
-# Hackathon Project Template
+# Impacts of changing wind regimes and sea ice on the world's longest migrant
 
-This is a template repo for hackathon projects. Click the (green) "Use this
-template" button at the top of the page to use it.
+Arctic terns are one of very few species in the world to spend considerable parts of time every year at both poles, migrating at least 90,000 km per year between the two,<sup>[1, 2]</sup> which is the longest recorded migration of any animal. They are particularly vulnerable to climate change, with a short window to breed in their arctic range during the boreal summer, their reliance on tailwinds to support both their south- and north- bound migrations,<sup>[3]</sup> and their use of sea ice to forage in the Southern Ocean during the austral summer. Using tracking data (from breeding arctic terns caught in Greenland<sup>[1]</sup> and Sweden<sup>[4]</sup>), and Iceland, we are interested in investigating how predicted changes over the next 100 years will impact the winds that migrating arctic terns rely on, and how the changing ice edge will affect their foraging during the non-breeding period.
 
-There are also some example notebooks. Check our [Hackathon Resources](https://cmip6moap.github.io/resources/)
-page for further guidance, including our participant guide and recommendations
-for using Git and GitHub in your project team.
+1. Egevang C, Stenhouse IJ, Phillips RA, Petersen A, Fox JW, Silk JR (2010) Tracking of Arctic terns Sterna paradisaea reveals longest animal migration Proc Natl Acad Sci U S A 107:2078-2081 https://doi.org/10.1073/pnas.0909493107
+2. Fijn RC, Hiemstra D, Phillips RA, van der Winden J (2013) Arctic Terns Sterna paradisaea from The Netherlands migrate record distances across three oceans to Wilkes Land, East Antarctica Ardea 101:3-12 https://doi.org/10.5253/078.101.0102
+3. Hromádková T, Pavel V, Flousek J, Briedis M (2020) Seasonally specific responses to wind patterns and ocean productivity facilitate the longest animal migration on Earth. Mar Ecol Prog Ser 638:1-12. https://doi.org/10.3354/meps13274
+4. Alerstam, T, Bäckman, J, Grönroos, J, Olofsson, P, Strandberg, R (2019) Hypotheses and tracking results about the longest migration: The case of the arctic tern. Ecol Evol 9: 9511– 9531. https://doi.org/10.1002/ece3.5459
 
-This template repo was created for the [CMIP6 Data Hackathon](https://cmip6moap.github.io)
-by [James Thomas](https://github.com/jatonline) and [Will Seviour](https://github.com/wseviour).
-
-## Change this README!
-
-When you've used this template, remove the above text and replace with the
-below:
-
----
-
-# [Project title]
-
-[Short summary of the project]
+***
 
 ## Contributors
+- [Joanne Morten](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Joanne_Morton) *(Exeter, Project Lead)*
+- [Lucy Hawkes](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Lucy_Hawkes) *(Exeter, Project Lead)*
+- Will Thurston *(Met Office, Project Lead)*
 
-* Contributors list
-* With links to GitHub profiles / institution pages, etc.
+- Pearce Buchanan *(Liverpool)* :octocat: [pearseb](https://github.com/pearseb)
+- [Isolde Glissenaar](https://research-information.bris.ac.uk/en/persons/isolde-a-glissenaar) *(Oxford)* :octocat: [IsoldeGlissenaar](https://github.com/IsoldeGlissenaar)
+- [Noam Vogt-Vincent](https://www.earth.ox.ac.uk/people/noam-vogt-vincent/) *(Bristol)* :octocat: [nvogtvincent](https://github.com/nvogtvincent)
+- [Daniel Williams](https://emps.exeter.ac.uk/mathematics/staff/dw569) *(Exeter)* :octocat: [daw538](https://github.com/daw538)
+- [Ned Williams](https://emps.exeter.ac.uk/mathematics/staff/nw432) *(Exeter)* :octocat: [nedcw](https://github.com/nedcw)
+- Shannon Williams
+- [Aleksandra Zaforemska](https://research.ncl.ac.uk/geospatial-systems/phdresearchers/profiles/aleksandrazaforemska.html) *(Newcastle)* :octocat: [alekszaf](https://github.com/alekszaf)
 
 ## What was done
 
