@@ -15,8 +15,8 @@ Arctic terns are one of very few species in the world to spend considerable part
 - Will Thurston *(Met Office, Project Lead)*
 
 - Pearce Buchanan *(Liverpool)* :octocat: [pearseb](https://github.com/pearseb)
-- [Isolde Glissenaar](https://research-information.bris.ac.uk/en/persons/isolde-a-glissenaar) *(Oxford)* :octocat: [IsoldeGlissenaar](https://github.com/IsoldeGlissenaar)
-- [Noam Vogt-Vincent](https://www.earth.ox.ac.uk/people/noam-vogt-vincent/) *(Bristol)* :octocat: [nvogtvincent](https://github.com/nvogtvincent)
+- [Isolde Glissenaar](https://research-information.bris.ac.uk/en/persons/isolde-a-glissenaar) *(Bristol)* :octocat: [IsoldeGlissenaar](https://github.com/IsoldeGlissenaar)
+- [Noam Vogt-Vincent](https://www.earth.ox.ac.uk/people/noam-vogt-vincent/) *(Oxford)* :octocat: [nvogtvincent](https://github.com/nvogtvincent)
 - [Daniel Williams](https://emps.exeter.ac.uk/mathematics/staff/dw569) *(Exeter)* :octocat: [daw538](https://github.com/daw538)
 - [Ned Williams](https://emps.exeter.ac.uk/mathematics/staff/nw432) *(Exeter)* :octocat: [nedcw](https://github.com/nedcw)
 - Shannon Williams
